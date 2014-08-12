@@ -1,7 +1,7 @@
 Backup SaltStack Formula
 =============
 
-Setup backup for all databases on the server using https://meskyanichi.github.io/backup/v4/
+Setup generic php app environment.
 
 ## What it does
 
