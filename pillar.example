@@ -41,3 +41,5 @@ backup:
     access_key_id: 8df98fdugsdfkjghdfsjkgsd
     secret_access_key: sd98fgu89fsdug89sdfug89dfsug
     path: DatabaseBackups
+
+monit: False
